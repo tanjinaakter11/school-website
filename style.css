@@ -1,0 +1,74 @@
+.h6{ 
+    color: red;
+}
+h1{ 
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight{ 
+    color: green;
+}
+header{ 
+    background-color: lightgray;
+}
+.green{ 
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 20px;
+    cursor: pointer;
+}
+header a{ 
+    color: black;
+}
+
+.nav-link:hover{ 
+    color:red;
+}
+.nav-item{ 
+    padding:0.9em;
+}
+
+ 
+ .bg-gray{ 
+     background-color: lightslategrey;
+     text-align: align-self-center;
+     padding:40px ;
+     box-sizing: border-box;
+     color: white;
+     border-width: 25px;
+     font-size: small;
+ }
+ .container{ 
+     text-align: center;
+ }
+ 
+ footer{ 
+    text-align: center; 
+ }
+ .card-footer{ 
+    background-color: white;
+    border-top: none;
+ }
+ .card-body{ 
+     border: none;
+ }
+ .col{ 
+    box-shadow:  1px 1px 10px gray;
+   
+ }
+ .card{ 
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 5px;
+ }
+ footer{
+    text-align: center; 
+    color: white;
+ }
+.last{ 
+    color: white;
+}
+ 
